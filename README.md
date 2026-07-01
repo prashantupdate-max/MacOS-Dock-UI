@@ -27,4 +27,4 @@ A simple macOS-inspired Dock Navigation built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-⭐ Beginner-friendly UI project.
+### ⭐ Beginner-friendly UI project.
